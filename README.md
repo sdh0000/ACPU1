@@ -1,7 +1,6 @@
 # ACPU1
 <html>
 <head>
-  <title>WEB1 - Welcome</title>
   <meta charset="utf-8">
 </head>
 <body>
@@ -34,8 +33,3 @@
   </p>
 </body>
 </html>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Sta
