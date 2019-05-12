@@ -33,8 +33,6 @@
 <ol> 너에 대한 한줄평: 매의 눈을 가졌다</oi>
   </p>
 </body>
-<style>
-body{background-color:lightblue}
 </html>
 © 2019 GitHub, Inc.
 Terms
