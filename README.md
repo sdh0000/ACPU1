@@ -1,9 +1,8 @@
 # ACPU1
 <html>
 <head>
-  <meta charset="utf-8">
 </head>
-<h1> 매의눈 정호윤 --</h1>
+<h1>  매의눈 정호윤 --</h1>
   <ol>
   </ol>
   <h2>정호윤 그는 누구인가?</h2>
